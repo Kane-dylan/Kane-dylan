@@ -12,7 +12,7 @@
 
 
 <h3 align="left">About Me 🙂:</h3>
-- 🌱 I’m currently Diving into **Dev**
+- 🌱 I’m currently Diving into Dev
 
 - 📫 How to reach me.. **kanedylan.prof@gmail.com**
 
