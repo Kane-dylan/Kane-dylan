@@ -1,3 +1,6 @@
+![image](https://github.com/Kane-dylan/Kane-dylan/assets/139806450/0f4b59c0-3581-496e-bb97-7f67c32a070a)
+
+
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif")
