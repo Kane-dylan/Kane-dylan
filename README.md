@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  height="200" src="https://files.cults3d.com/uploaders/16086597/illustration-file/527e6d2e-f120-4c72-abfc-287040b4f69c/4.gif"  />
+<img align="right"  height="200" src="https://miro.medium.com/v2/resize:fit:750/1*82D2cg8Gpe9CVISaph6RPg.gif"  />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kane-dylan&label=Profile%20views&color=0e75b6&style=flat" alt="kane-dylan" /> </p>
