@@ -16,7 +16,7 @@
 
 - 📫 How to reach me.. **kanedylan.prof@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny**
+- ⚡ Fun fact **Like to type colourful lines in black screen :)**
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
