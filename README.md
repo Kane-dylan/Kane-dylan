@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  height="200" src="https://i.pinimg.com/originals/ab/48/0f/ab480f3c13465023a5a260ca573b628f.gif"  />
+<!-- <img align="right"  height="200" src="https://i.pinimg.com/originals/ab/48/0f/ab480f3c13465023a5a260ca573b628f.gif"  /> -->
+<img align="right"  height="200" src="![zenitsu](https://github.com/Kane-dylan/HTML_1st-prog/assets/139806450/8c6f9fbd-6147-48a0-bd43-216d824a49e2)"  />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kane-dylan&label=Profile%20views&color=0e75b6&style=flat" alt="kane-dylan" /> </p>
