@@ -5,6 +5,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/248d0142-5abb-4d84-bba3-38328fc87fda"  />
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kane-dylan&label=Profile%20views&color=0e75b6&style=flat" alt="kane-dylan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kiran_das05" target="blank"><img src="https://img.shields.io/twitter/follow/kiran_das05?logo=twitter&style=for-the-badge" alt="kiran_das05" /></a> </p>
@@ -31,5 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kane-dylan&show_icons=true&locale=en" alt="kane-dylan" /></p>
 
+
+<img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kane-dylan&" alt="kane-dylan" /></p>
 
