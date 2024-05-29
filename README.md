@@ -15,7 +15,7 @@
 <h3 align="left">About Me 🙂:</h3>
 - 🌱 I’m currently Diving into Dev
 
-- 📫 How to reach me.. **kanedylan.prof@gmail.com**
+- 📫 How to reach me.. **cool.kdtech1234@gmail.com**
 
 - ⚡ Fun fact **Like to type colourful lines in black screen :)**
 
