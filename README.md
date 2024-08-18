@@ -62,3 +62,5 @@
 <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kane-dylan&" alt="kane-dylan" /></p>
 
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kane-dylan/Kane-dylan/output/github-contribution-grid-snake-dark.svg" />
