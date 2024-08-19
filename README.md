@@ -11,9 +11,10 @@
 </div>
 
 
-<img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/248d0142-5abb-4d84-bba3-38328fc87fda"  />
-
-<!-- <p align="left"> <a href="https://twitter.com/kiran_das05" target="blank"><img src="https://img.shields.io/twitter/follow/kiran_das05?logo=twitter&style=for-the-badge" alt="kiran_das05" /></a> </p> -->
+<div align="right">
+<img align="right"  height="200" src="https://github.com/user-attachments/assets/9a6adeeb-287e-477f-881d-c106107aa811"  />
+</div>
+<!-- <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/248d0142-5abb-4d84-bba3-38328fc87fda"  /> -->
 
 
 <h3 align="left">About Me 🙂:</h3>
