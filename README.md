@@ -17,7 +17,8 @@
 </div> -->
 <!-- <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/248d0142-5abb-4d84-bba3-38328fc87fda"  /> -->
 
-![image](https://github.com/user-attachments/assets/64bb1e62-fd04-45f7-a6cf-5f1f3b0e1330)
+    
+<img align= "right" height= "300" src="https://github.com/user-attachments/assets/64bb1e62-fd04-45f7-a6cf-5f1f3b0e1330" />
 
 
 
