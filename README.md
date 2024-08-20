@@ -80,7 +80,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true)
 <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
