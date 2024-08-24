@@ -1,4 +1,6 @@
-![image](https://github.com/Kane-dylan/Kane-dylan/assets/139806450/0f4b59c0-3581-496e-bb97-7f67c32a070a)
+![Blue-git_Banner](https://github.com/user-attachments/assets/ce1c196f-91e2-4ea5-bdb0-18b4dcc58e8b)
+<!--![image](https://github.com/Kane-dylan/Kane-dylan/assets/139806450/0f4b59c0-3581-496e-bb97-7f67c32a070a)-->
+
 
 
 <h1 align="center">
@@ -81,7 +83,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true)
 <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)-->
 
 
 ### 🐍 Snake swallows my Git contributions, leaving only snack wrappers 🧃📉 
