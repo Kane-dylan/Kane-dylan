@@ -25,7 +25,7 @@
 
 <h3 align="left">About Me 🙂:</h3>
 
-🔭 I’m currently I’m currently Diving into Dev<br>
+🤿 I’m currently I’m currently Diving into Dev<br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with Front-end Development<br>
 🌱 I’m currently learning DSA<br>
