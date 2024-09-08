@@ -80,8 +80,12 @@
 </p>  -->
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true)
+
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&title_color=8fd19e&icon_color=2ea44f&text_color=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&currStreakLabel=2ea44f&sideLabels=2ea44f&dates=2ea44f&background=0D1117&border=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
+</div>
+
 <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)-->
 
