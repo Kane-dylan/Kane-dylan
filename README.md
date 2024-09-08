@@ -4,8 +4,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Coders!+👨🏽‍💻;+I'm+Kiran+Das!;+Let's+talk+in+zero_s+and+one_s;" /></h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8fd19e&center=true&vCenter=true&width=500&height=70&duration=3000&pause=500&lines=Hey+Coders!+👨🏽‍💻;+I'm+Kiran+Das!;+Let's+talk+in+zeroes+and+ones!;" />
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <div align="right">
     
@@ -79,11 +80,9 @@
   
 </p>  -->
 # 📊 GitHub Stats:
-
-
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&title_color=8fd19e&icon_color=2ea44f&text_color=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&currStreakLabel=2ea44f&sideLabels=2ea44f&dates=2ea44f&background=0D1117&border=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&title_color=8fd19e&icon_color=2ea44f&text_color=2ea44f&text_bold=true" style="width: 45%; min-width: 300px; max-width: 400px;" />
+<img class="green-flame" src="https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=32cd32&currStreakNum=8fd19e&sideNums=8fd19e&currStreakLabel=8fd19e&sideLabels=8fd19e&dates=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
 </div>
 
 <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
