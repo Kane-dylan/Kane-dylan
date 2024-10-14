@@ -19,6 +19,8 @@
 </div> -->
 <!-- <img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/248d0142-5abb-4d84-bba3-38328fc87fda"  /> -->
 
+<img align= "right" height= "300" src="https://github.com/user-attachments/assets/64bb1e62-fd04-45f7-a6cf-5f1f3b0e1330" />
+
 
 
 
@@ -32,7 +34,7 @@
 ⚡ Fun fact Like to type colourful lines in black screen :)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-kiran-das) 
