@@ -31,7 +31,7 @@
 🤝 I’m looking for help with Front-end Development<br>
 🌱 I’m currently learning DSA<br>
 💬 Ask me about linux<br>
-⚡ Fun fact Like to type colourful lines in black screen :)
+⚡ Fun fact Love painting rainbows on a black canvas of code 💻:)
 
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
