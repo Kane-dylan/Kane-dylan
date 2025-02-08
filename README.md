@@ -89,8 +89,13 @@
 <img class="green-flame" src="https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=32cd32&currStreakNum=8fd19e&sideNums=8fd19e&currStreakLabel=8fd19e&sideLabels=8fd19e&dates=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
 </div>
 
-<img align="right"  height="200" src="https://github.com/Kane-dylan/Kane-dylan/assets/139806450/8fc8558b-3a5f-45c8-a303-30fef20f50b1"  />
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)-->
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&title_color=76ad84" />
+  <img height="200" src="https://github.com/user-attachments/assets/d2baefd2-0edb-4172-9799-6a3889c2b14e" />
+</div>
+
+
 
 
 ### 🐍 Snake swallows my Git contributions, leaving only snack wrappers 🧃📉 
