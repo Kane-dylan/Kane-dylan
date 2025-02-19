@@ -91,8 +91,8 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&title_color=76ad84" />
   <img height="200" src="https://github.com/user-attachments/assets/b31823c1-bf86-4a11-b57c-e94f26767b66" />
+  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&title_color=76ad84" />
 </div>
 
 
