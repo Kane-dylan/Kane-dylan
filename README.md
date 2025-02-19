@@ -83,7 +83,7 @@
   <img width="12" />
   
 </p>  -->
-# 📊 GitHub Stats:
+## <span style="color:#00d8ff; font-weight:bold; font-size:22px;">📊 GitHub Stats:</span>
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Kane-dylan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&title_color=8fd19e&icon_color=2ea44f&text_color=2ea44f&text_bold=true" style="width: 45%; min-width: 300px; max-width: 400px;" />
 <img class="green-flame" src="https://github-readme-streak-stats.herokuapp.com/?user=Kane-dylan&theme=transparent&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=32cd32&currStreakNum=8fd19e&sideNums=8fd19e&currStreakLabel=8fd19e&sideLabels=8fd19e&dates=2ea44f" style="width: 45%; min-width: 300px; max-width: 400px;" />
@@ -102,7 +102,8 @@
 ### 🐍 Snake swallows my Git contributions, leaving only snack wrappers 🧃📉 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kane-dylan/Kane-dylan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kane-dylan/Kane-dylan/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kane-dylan/Kane-dylan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kane-dylan/Kane-dylan/output/github-contribution-grid-snake-light.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kane-dylan/Kane-dylan/output/github-contribution-grid-snake-light.svg">
 </picture>
+
 
