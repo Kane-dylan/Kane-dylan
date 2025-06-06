@@ -50,7 +50,7 @@
 ### Tech-Stack 🛠️
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,tailwind,mui,react,nodejs,md" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,tailwind,mui,react,nodejs,md" />
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,vercel,netlify,firebase,mongodb,mysql" />
     <img src="https://skillicons.dev/icons?i=bash,powershell,vim,neovim,sublime,vscode,replit,figma,linux,gcp" /><br>
 </div>
