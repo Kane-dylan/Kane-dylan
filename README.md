@@ -25,15 +25,14 @@
 
 
 
-
 <h3 align="left">About Me 🙂:</h3>
 
-🤿 I’m currently I’m currently learning DSA<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with Front-end Development<br>
-🌱 I’m currently learning DSA<br>
-💬 Ask me about linux<br>
-⚡ Fun fact Love painting rainbows on a black canvas of code 💻:)
+👨‍💻 Just another dev trying to make sense of code<br>
+🚀 Currently exploring the world of DSA<br>
+🎨 Love mixing creativity with logic<br>
+🐧 Linux fanboy at heart<br>
+🍕 Runs on coffee & pizza<br>
+
 
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
